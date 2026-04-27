@@ -14,7 +14,6 @@
 
 ## 📸 معاينة التطبيق
 <p align="center">
-  <img src="<p align="center">
   <img src="https://github.com/user-attachments/assets/44939a1f-8659-4e03-beab-8d7931f5f0ef" />
 </p>
 </p>
