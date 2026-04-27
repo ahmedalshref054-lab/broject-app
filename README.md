@@ -17,7 +17,7 @@
 ## 📸 معاينة التطبيق
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5350f325-4d19-45b1-85a9-725c1429c4d2" />" alt="Project App Preview" width="600">
+  <img src="https://github.com/user-attachments/assets/5350f325-4d19-45b1-85a9-725c1429c4d2" />
 </p>
 
 ## 🔗 جرب التطبيق الآن
