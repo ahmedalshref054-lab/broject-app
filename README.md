@@ -14,7 +14,9 @@
 
 ## 📸 معاينة التطبيق
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9583a695-1772-466d-a193-4a0082987177" alt="Ghaith App Preview" width="600">
+  <img src="<p align="center">
+  <img src="https://github.com/user-attachments/assets/6973d48a-ecb2-431b-adae-988dd0ff559d" alt="Portfolio Preview" width="600">
+</p>
 </p>
 
 ## 🔗 جرب التطبيق الآن
